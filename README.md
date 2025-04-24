@@ -6,7 +6,7 @@ Web Developer & Educator
 
 * 🌍  I'm based in Lagos State
 * ✉️  You can contact me at [ismaileyyunusa@gmail.com](mailto:ismaileyyunusa@gmail.com)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=smileywrld)](https://git.io/streak-stats)
 ### Skills
 
 <p align="left">
